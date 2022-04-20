@@ -20,10 +20,11 @@ body {
      color:#3f3f3f;
      
  }
-/*===================SLIDER DE IMAGENES==========================*/
+/*===================SLIDER DE IMAGENES Y VIDEOS==========================*/
 
-.carousel-inner {
+.carousel-inner .carousel-inner1 {
     max-height:39rem !important;
+    justify-content: center;
 }
 
 /*=========================CONTACTOS BACKGROUND================================*/
